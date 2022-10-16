@@ -4,7 +4,7 @@ const next = document.getElementById('next')
 const spans = document.querySelectorAll('span');
 const container = document.querySelector('.container');
 
-let x =1;
+let x =0;
 let timer;
 function upDateImg(){
     
